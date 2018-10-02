@@ -1,0 +1,11 @@
+A: New Adventure.
+L:0: a Field : Standing at home sweet home. 
+L:1: a Tree : Standing on a tree.
+L:2: a Pond : Standing on a pond.
+L:3: a Hut: Stadning on a hut
+P:0:east:2
+P:2:west:0
+C:0:chest:200;
+I:0:chest:Apple:red round fruit:5
+I:0:rock:Can be used be beat things:1
+I:2:wand: You're a wizard harry:2
