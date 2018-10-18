@@ -1,0 +1,20 @@
+﻿Build started 22/04/2015 8:56:20 PM.
+     1>Project "C:\Users\Acer\Dropbox\DSP\Projects\LinkedList\LinkedList\LinkedList.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\LinkedList.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ListNodeIterator.cpp main.cpp
+         main.cpp
+     1>c:\users\acer\dropbox\dsp\projects\linkedlist\linkedlist\main.cpp(10): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\acer\dropbox\dsp\projects\linkedlist\linkedlist\main.cpp(10): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\acer\dropbox\dsp\projects\linkedlist\linkedlist\main.cpp(11): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\acer\dropbox\dsp\projects\linkedlist\linkedlist\main.cpp(11): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\acer\dropbox\dsp\projects\linkedlist\linkedlist\main.cpp(13): error C2065: 'Two' : undeclared identifier
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         ListNodeIterator.cpp
+     1>Done Building Project "C:\Users\Acer\Dropbox\DSP\Projects\LinkedList\LinkedList\LinkedList.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.40
